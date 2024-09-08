@@ -1,4 +1,4 @@
-package com.ssc.taa.rest.webservices.restful_web_services;
+package com.ssc.taa.webservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
